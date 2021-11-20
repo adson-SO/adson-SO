@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Adson!! 🧙‍♂️
 
-- 🔭 Estudo desenvolvimento Back-end
+- 🔭 Estudo desenvolvimento Full-Stack
 - 🌱 Estou atualmente aprendendo JavaScript e Node.js
 - 😄 Pronouns: Ele/Dele
 
