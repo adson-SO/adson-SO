@@ -5,8 +5,8 @@
 - 😄 Pronomes: Ele/Dele
 
 <div>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=adson-SO&show_icons=true&theme=ocean_dark"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adson-SO&layout=compact&langs_count=16&theme=ocean_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adson-SO&show_icons=true&theme=ocean_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adson-SO&langs_count=8&theme=ocean_dark"/>
 </div>
 
 <div style="diplay: inline_block"><br>
@@ -19,4 +19,5 @@
 
 ##
 
+![Snake animation](https://github.com/adson-SO/adson-SO/blob/output/github-contribution-grid-snake.svg)
 
