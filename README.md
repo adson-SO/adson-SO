@@ -1,8 +1,7 @@
 ### Olá!! Eu sou o Adson!! 🧙‍♂️
 
-- 🖥️ Estudo desenvolvimento Back-end
-- 📚 Estou atualmente aprendendo Typescript
-- 👨🏻‍💻 Pronomes: Ele/Dele
+- 🖥️ Trabalho com desenvolvimento Back-end
+- 📚 Estou atualmente aprendendo React
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adson-SO&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
